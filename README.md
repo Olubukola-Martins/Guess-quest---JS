@@ -1,4 +1,5 @@
-# Guess-quest---JS
+# Guess-quest
+
 This is a simple guessing game implemented in JavaScript. The goal of the game is to guess a randomly generated number between 1 and 20 in as few attempts as possible.
 
 To play the game, simply open the index.html file in your web browser or via the URL provided. You will see a user interface with an input field for entering your guess and a button to submit your guess.
@@ -13,14 +14,3 @@ Your highest score would be displayed to see and updated as soon as you attain a
 This game is a great way to improve your number guessing skills and have fun at the same time. So, give it a try and see how many attempts it takes you to guess the number!
 
 HAPPY GUESSING!
-
-
-
-
-
-
-
-
-
-
-
