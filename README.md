@@ -1,4 +1,6 @@
 # Guess-quest
+# URL:
+https://guess-quest.netlify.app/
 
 This is a simple guessing game implemented in JavaScript. The goal of the game is to guess a randomly generated number between 1 and 20 in as few attempts as possible.
 
